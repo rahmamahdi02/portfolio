@@ -5,11 +5,9 @@ import { Link } from "react-scroll/modules"
 
 const HeroSection = () => {
   const logos = [
-    { src: '/logos/ucberkeley.jpg', alt: 'UC Berkeley' },
     { src: '/logos/playstation.png', alt: 'Playstation' },
     { src: '/logos/sony.png', alt: 'Sony' },
-
-    { src: '/logos/google.png', alt: 'Google' }, // add fourth logo here
+    { src: '/logos/google.png', alt: 'Google' },
   ];
 
   return (

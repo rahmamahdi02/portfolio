@@ -32,7 +32,9 @@ export const AboutMeSection = () => {
                         <p>
                             My work spans from deploying machine learning applications to millions of PlayStation consoles—reducing data downloads by 30%—to leading feature integrations and introducing native UI frameworks to Sony's next generation of devices.
                             I thrive in cross-functional, fast-paced environments, collaborating with engineers, designers, and QA teams across time zones to deliver stable, scalable, and production-ready solutions. Whether I’m optimizing build pipelines, debugging complex native-layer systems, or designing intuitive interfaces, I bring a balance of technical depth, strategic problem-solving, and clear communication.
-                            Passionate about creating experiences that delight and empower users, I’m driven by challenges that blend systems-level thinking with user-focused design. My recent work includes feature development at Sony Interactive Entertainment, UI redesigns for Google’s Tech Equity Collective, and curriculum engineering for open-source education initiatives reaching 600+ developers.
+                        </p>
+                        <p>
+                            My recent work includes feature development at Sony Interactive Entertainment, UI redesigns for Google’s Tech Equity Collective, and curriculum engineering for open-source education initiatives reaching 600+ developers.
                         </p>
                     </div>
                     <div className="text-center md:w-1/2 md:text-left">
