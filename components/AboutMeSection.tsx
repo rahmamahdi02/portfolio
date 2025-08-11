@@ -27,16 +27,16 @@ export const AboutMeSection = () => {
                 <div className="flex flex-col space-y-10 items-stretch justify-center align-top md:space-x-10 md:space-y-0 md:p-4 md:flex-row md:text-left">
                     <div className="md:w-1/2 ">
                         <h2 className="text-center text-3xl font-bold mb-6 md:text-left">
-                            About Me
+                        Professional Summary
                         </h2>
                         <p>
-                            My work spans from deploying ML models to millions of PlayStation consoles—reducing data downloads by 30%—to leading feature integrations for native UI frameworks for worldwide.
+                            My work spans from deploying machine learning applications to millions of PlayStation consoles—reducing data downloads by 30%—to leading feature integrations and introducing native UI frameworks to Sony's next generation of devices.
                             I thrive in cross-functional, fast-paced environments, collaborating with engineers, designers, and QA teams across time zones to deliver stable, scalable, and production-ready solutions. Whether I’m optimizing build pipelines, debugging complex native-layer systems, or designing intuitive interfaces, I bring a balance of technical depth, strategic problem-solving, and clear communication.
                             Passionate about creating experiences that delight and empower users, I’m driven by challenges that blend systems-level thinking with user-focused design. My recent work includes feature development at Sony Interactive Entertainment, UI redesigns for Google’s Tech Equity Collective, and curriculum engineering for open-source education initiatives reaching 600+ developers.
                         </p>
                     </div>
                     <div className="text-center md:w-1/2 md:text-left">
-                        <h2 className="text-3xl font-bold mb-6">My Skills</h2>
+                        <h2 className="text-3xl font-bold mb-6">Technical Skillset</h2>
                         <div className="flex flex-wrap flex-row justify-center z-10 md:justify-start">
                             {skills.map((item, idx) => {
                                 return (
