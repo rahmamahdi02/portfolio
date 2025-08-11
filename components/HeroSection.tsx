@@ -7,11 +7,11 @@ const HeroSection = () => {
 
   return (
     <section id="home">
-      <div className="flex flex-col text-center items-center justify-center animate-fadeIn animation-delay-2 my-10 sm:py-10 md:py-28 md:flex-row md:space-x-4 md:text-left">
+      <div className="flex flex-col text-center items-center justify-center animate-fadeIn animation-delay-2 my-10 py-16 sm:py-32 md:py-48 md:flex-row md:space-x-4 md:text-left">
         <div className="md:mt-2 md:w-1/2">
           <Image
             className="rounded-full"
-            src="/IMG_8304.jpg"
+            src="/headshot.png"
             alt="Headshot of Rahma, a woman wearing a purple headscarf, grey shirt and navy blue blazer."
             width={300}
             height={300}
@@ -19,9 +19,10 @@ const HeroSection = () => {
         </div>
         <div className="md:mt-2 md:w-3/5">
           <h1 className="text-4xl font-bold mt-6 md:mt-0 md:text-7xl"> Hi, I&apos;m Rahma!</h1>
+          <p className="font-semibold text-yellow-800 dark:text-yellow-800 mt-4 mb-6 md:text-2xl">Based in San Fransisco Bay Area</p>
           <p className="text-lg mt-4 mb-6 md:text-2xl">
-            A <span className="font-semibold text-yellow-500 dark:text-yellow-500">
-            Full-Stack Software Engineer{" "}
+            I'm a <span className="font-semibold text-yellow-500 dark:text-yellow-500">
+            Software Developer{" "}
             </span>
             with 3+ years skilled in production ready software, debugging complex codebases, toolchain migration, and UI frameworks.
           </p>
