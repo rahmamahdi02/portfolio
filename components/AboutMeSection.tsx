@@ -30,12 +30,12 @@ export const AboutMeSection = () => {
                         Professional Summary
                         </h2>
                         <p>
-                            My work spans from deploying machine learning applications to millions of PlayStation consoles—reducing data downloads by 30%—to leading feature integrations and introducing native UI frameworks to Sony's next generation of devices.
+                            My work spans from deploying machine learning applications to millions of PlayStation consoles—reducing data downloads by 30% to building out native UI frameworks for Sony's next generation of devices.
                             I thrive in cross-functional, fast-paced environments, collaborating with engineers, designers, and QA teams across time zones to deliver stable, scalable, and production-ready solutions. Whether I’m optimizing build pipelines, debugging complex native-layer systems, or inquiring on design choices for intuitive interfaces, I bring a balance of technical depth, strategic problem-solving, and clear communication.
                         </p>
                     </div>
                     <div className="text-center md:w-1/2 md:text-left">
-                        <h2 className="text-3xl font-bold mb-6">Technical Skillset</h2>
+                        <h2 className="text-3xl font-bold mb-6">Technical Skills</h2>
                         <div className="flex flex-wrap flex-row justify-center z-10 md:justify-start">
                             {skills.map((item, idx) => {
                                 return (

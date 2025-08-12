@@ -6,6 +6,14 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
     {
+        name: "Random Quote Machine",
+        description: "Built using TypeScript & Vite, this application makes it easy for users to generates random quotes to quickly tweet to their audience on X. With just a click of a button, users can share new insights and wisdom from an arry of thought leaders.",
+        image: "/colorchange.png",
+        alt: "Image of Question Craft landing page",
+        github: "https://github.com/rahmamahdi02/random-quote-machine/blob/main/README.md",
+        link: "https://hilarious-phoenix-c4b24e.netlify.app/",
+    },
+    {
         name: "Question Craft",
         description: "Question-Craft is a group-made web application that generates questions using the Chat GPT OpenAI API based on user input. It utilizes React and Bootstrap for the frontend and Node.js with Express for the backend.",
         image: "/Question Craft.png",

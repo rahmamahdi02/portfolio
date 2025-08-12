@@ -19,12 +19,12 @@ const HeroSection = () => {
         </div>
         <div className="md:mt-2 md:w-3/5">
           <h1 className="text-4xl font-bold mt-6 md:mt-0 md:text-7xl"> Hi, I&apos;m Rahma!</h1>
-          <p className="font-semibold text-yellow-800 dark:text-yellow-800 mt-4 mb-6 md:text-2xl">Based in San Fransisco Bay Area</p>
+          <p className="font-semibold text-yellow-300 dark:text-yellow-300 mt-4 mb-6 md:text-2xl">Based in San Fransisco Bay Area</p>
           <p className="text-lg mt-4 mb-6 md:text-2xl">
-            I'm a <span className="font-semibold text-yellow-500 dark:text-yellow-500">
+            I'm a Full-Stack <span className="font-semibold text-yellow-500 dark:text-yellow-500">
             Software Developer{" "}
             </span>
-            with 3+ years skilled in production ready software, debugging complex codebases, toolchain migration, and UI frameworks.
+            with 3+ years experience in production ready software, debugging complex codebases, toolchain migration, and UI frameworks.
           </p>
           <a
             href="/MahdiRahma_Resume.pdf"
