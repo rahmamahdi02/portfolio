@@ -29,6 +29,9 @@ const logos = [
   { src: '/logos/playstation.png', alt: 'Playstation' },
   { src: '/logos/sony.png', alt: 'Sony' },
   { src: '/logos/google.png', alt: 'Google' },
+  { src: '/logos/techprep.jpg', alt: 'TechPrep' },
+
+
 ]
 
 export const WorkHistorySection = () => {
